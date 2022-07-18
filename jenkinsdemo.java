@@ -7,7 +7,7 @@ public class jenkinsdemo {
 		System.out.println("Hello There");
 		System.out.println("Hello There");
 		System.out.println("Hello There");
-
+        gitgub.printName();
 	}
 
 }
