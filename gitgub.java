@@ -2,7 +2,7 @@ package jenkins.com.io;
 
 public class jenkinsdemo {
 
-	public static printName() {
+	public static void printName() {
 		System.out.println("git hub");
 		
 
