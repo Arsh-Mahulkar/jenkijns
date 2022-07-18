@@ -1,6 +1,6 @@
 package jenkins.com.io;
 
-public class jenkinsdemo {
+public class github {
 
 	public static void printName() {
 		System.out.println("git hub");
